@@ -1,7 +1,5 @@
-## A Machine learning and security blog
+# Hidden number of neurons
 
-
-### Hidden number of neurons
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
